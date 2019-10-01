@@ -7,7 +7,7 @@ git push -u origin master
 
 GitHub, an online software development platform, uses Git, a version control system that is used for tracking changes in source code among several programmers. To get started on GitHub, simply make an account and after verifying your email address, the site will walk you through making a repository, which contain all the necessary files and folders for a project. 
 
-After creating your repository, it is possible to create a local clone on your desktop, which can sync with the remote repository on GitHub and you can sync the two. It lives on your computer. 
+After creating your repository, it is possible to create a local clone on your desktop, which can sync with the remote repository on GitHub and you can sync the two when you choose. It lives on your computer. 
 
 Changes in GitHub repositories are called "Commits". Because GitHub uses Git, a system to control versions of repositories that many people could be working on at once, it is important that these changes are documented. When saving changes in GitHub, you can label your "commit" with a description, an extremely helpful and sometimes necessary tool when working with others.
 
