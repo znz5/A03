@@ -22,6 +22,7 @@ Getting the latest changes from an online repository and putting them on your lo
 Everything hosted on GitHub is called a remote repository, meaning it is hosted on a server, and then can be connected and synced to the local clones. This way, the local clones can be individually worked on by different people on their computers, and then push their changes to the remote repository where everybody else can pull the changes onto their local clones. 
 
 References 
+
 https://help.github.com/en/articles/github-glossary
 https://help.github.com/en/articles/merging-a-pull-request
 https://help.github.com/en/articles/about-merge-conflicts
